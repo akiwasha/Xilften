@@ -6,7 +6,7 @@ import faqsData from '../fixtures/faqs.json';
 export function FaqsContainer() {
   return (
     <Accordion>
-      <Accordion.Title>Frequently Asked Questions</Accordion.Title>
+      <Accordion.Title>Foire aux questions</Accordion.Title>
       {faqsData.map((item) => (
         <Accordion.Item key={item.id}>
           <Accordion.Header>{item.header}</Accordion.Header>
@@ -16,11 +16,12 @@ export function FaqsContainer() {
       <Accordion.Item />
 
       <OptForm>
-        <OptForm.Input placeholder="Email address" />
-        <OptForm.Button>Try it now</OptForm.Button>
+        <OptForm.Input placeholder="Adresse e-mail" />
+        <OptForm.Button>COMMENCER</OptForm.Button>
         <OptForm.Break />
         <OptForm.Text>
-          Ready to watch? Enter your email to create or restart your membership.
+          Prêt à regarder Netflix ? Saisissez votre adresse e-mail pour vous
+          abonner ou réactiver votre abonnement.
         </OptForm.Text>
       </OptForm>
     </Accordion>

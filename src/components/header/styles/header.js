@@ -27,8 +27,8 @@ export const Container = styled.div`
 `;
 
 export const Logo = styled.img`
-  height: 32px;
-  width: 108px;
+  height: 36px;
+  width: 134px;
   margin-right: 40px;
 
   @media (min-width: 1449px) {
@@ -41,12 +41,16 @@ export const ButtonLink = styled(ReactRouterLink)`
 display: block;
 background-color: #e50914;
 width: 84px;
-height: fit--content;
+height: fit-content;
+justify-content: center;
 color: white;
 border:0;
-font-size: 15px;
+font-size: 1rem;
+font-weight: 400;
+float: right;
+line-height: normal;
 border-radius: 3px;
-padding: 8px 17px;
+padding: 7px 17px;
 cursor: pointer;
 text-decoration: none;
 box-sizing: border-box

@@ -11,18 +11,18 @@ export default function Home() {
       <HeaderContainer>
         <Feature>
           <Feature.Title>
-            Unlimited films, TV programmes and more.
+            Films, séries TV et bien plus en illimité.
           </Feature.Title>
           <Feature.SubTitle>
-            Watch anywhere. Cancel at any time.
+            Où que vous soyez. Annulez à tout moment.
           </Feature.SubTitle>
           <OptForm>
-            <OptForm.Input placeholder="Email address" />
-            <OptForm.Button>Try it now</OptForm.Button>
+            <OptForm.Input placeholder="Adresse e-mail" />
+            <OptForm.Button>COMMENCER</OptForm.Button>
             <OptForm.Break />
             <OptForm.Text>
-              Ready to watch? Enter your email to create or restart your
-              membership.
+              Prêt à regarder Netflix ? Saisissez votre adresse e-mail pour vous
+              abonner ou réactiver votre abonnement.
             </OptForm.Text>
           </OptForm>
         </Feature>
