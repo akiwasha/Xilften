@@ -29,8 +29,8 @@ export const Group = styled.div`
   display: flex;
   flex-direction: ${({ flexDirection }) =>
     flexDirection === 'row' ? 'row' : 'column'};
-  ${({ alignItems }) => alignItems && `align-items: ${alignItems}`}
-  ${({ margin }) => margin && `margin: ${margin}`}
+  ${({ alignItems }) => alignItems && `align-items: ${alignItems}`};
+  ${({ margin }) => margin && `margin: ${margin}`};
 
   > ${Container}:first-of-type {
     @media (min-width: 1100px) {
@@ -60,7 +60,15 @@ export const Text = styled.p`
 `;
 
 export const FeatureText = styled.p`
-  margin-left: 0;
+  font-size: 18px;
+  color: white;
+  font-weight: ${({ fontWeight }) =>
+    fontWeight === 'bold' ? 'bold' : 'normal'};
+  margin: 0;
+
+  @media (max-width: 600px {
+    line-height: 22px;
+  })
 `;
 
 export const Feature = styled.div`
@@ -112,7 +120,7 @@ export const Maturity = styled.div`
   background-color: ${({ rating }) => (rating >= 15 ? 'red' : 'green')};
   border-radius: 15px;
   width: 20px;
-  apdding: 5px;
+  padding: 5px;
   text-align: center;
   color: white;
   font-weight: bold;
@@ -137,7 +145,7 @@ export const Meta = styled.div`
   position: absolute;
   bottom: 0;
   padding: 10px;
-  background-color: #00000008f;
+  background-color: #0000008f;
 `;
 
 export const Entities = styled.div`
