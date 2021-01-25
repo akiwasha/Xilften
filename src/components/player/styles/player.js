@@ -49,7 +49,7 @@ export const Close = styled.button`
     top: 0;
     content: ' ';
     height: 22px;
-    width: 22px;
+    width: 2px;
     background-color: #333;
   }
 
