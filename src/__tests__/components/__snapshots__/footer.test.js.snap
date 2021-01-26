@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders the <Footer /> with the populated data 1`] = `
+<div
+  class="footer__Container-qu6i6-0 hygnSq"
+>
+  <p
+    class="footer__Title-qu6i6-4 ietrFk"
+  >
+    Des questions ? Appelez le 0805-220-512
+  </p>
+  <p
+    class="footer__Break-qu6i6-6 cnYatT"
+  />
+  <div
+    class="footer__Row-qu6i6-2 kLvuYU"
+  >
+    <div
+      class="footer__Column-qu6i6-1 jAYoWp"
+    >
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        FAQ
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Relations Investisseurs
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Modes de lecture
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Mentions légales
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Programmes originaux Netflix
+      </a>
+    </div>
+    <div
+      class="footer__Column-qu6i6-1 jAYoWp"
+    >
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Centre d'aide
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Recrutement
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Conditions d'utilisation
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Nous contacter
+      </a>
+    </div>
+    <div
+      class="footer__Column-qu6i6-1 jAYoWp"
+    >
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Compte
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Utiliser des cartes cadeaux
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Confidentialité
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Test de vitesse
+      </a>
+    </div>
+    <div
+      class="footer__Column-qu6i6-1 jAYoWp"
+    >
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Presse
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Acheter des cartes cadeaux
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Préférences de cookies
+      </a>
+      <a
+        class="footer__Link-qu6i6-3 iRyBkK"
+        href="#"
+      >
+        Informations légales
+      </a>
+    </div>
+  </div>
+  <p
+    class="footer__Break-qu6i6-6 cnYatT"
+  />
+  <p
+    class="footer__Text-qu6i6-5 bAqYDB"
+  >
+    Netflix France
+  </p>
+</div>
+`;
