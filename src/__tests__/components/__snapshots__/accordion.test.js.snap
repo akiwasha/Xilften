@@ -2,23 +2,23 @@
 
 exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
 <div
-  class="accordion__Container-l3iym9-0 inwkwi"
+  class="accordion__Container-qskqv3-0 bKPrvs"
 >
   <div
-    class="accordion__Inner-l3iym9-1 daPdxt"
+    class="accordion__Inner-qskqv3-1 ilrgEX"
   >
     <h1
-      class="accordion__Title-l3iym9-5 bsREHj"
+      class="accordion__Title-qskqv3-5 kVSpkJ"
     >
       Foire aux questions
     </h1>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Netflix, qu'est-ce que c'est ?
+        xilften, qu'est-ce que c'est ?
         <img
           alt="Open"
           src="/images/icons/add.png"
@@ -26,12 +26,12 @@ exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Combien coûte Netflix ?
+        Combien coûte xilften ?
         <img
           alt="Open"
           src="/images/icons/add.png"
@@ -39,12 +39,12 @@ exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Où puis-je regarder Netflix ?
+        Où puis-je regarder xilften ?
         <img
           alt="Open"
           src="/images/icons/add.png"
@@ -52,10 +52,10 @@ exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
         Comment puis-je annuler mon forfait ?
         <img
@@ -65,12 +65,12 @@ exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Que puis-je regarder sur Netflix ?
+        Que puis-je regarder sur xilften ?
         <img
           alt="Open"
           src="/images/icons/add.png"
@@ -83,23 +83,23 @@ exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
 
 exports[`<Accordion /> renders the <Accordion /> with the populated data 1`] = `
 <div
-  class="accordion__Container-l3iym9-0 inwkwi"
+  class="accordion__Container-qskqv3-0 bKPrvs"
 >
   <div
-    class="accordion__Inner-l3iym9-1 daPdxt"
+    class="accordion__Inner-qskqv3-1 ilrgEX"
   >
     <h1
-      class="accordion__Title-l3iym9-5 bsREHj"
+      class="accordion__Title-qskqv3-5 kVSpkJ"
     >
       Foire aux questions
     </h1>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Netflix, qu'est-ce que c'est ?
+        xilften, qu'est-ce que c'est ?
         <img
           alt="Open"
           src="/images/icons/add.png"
@@ -107,12 +107,12 @@ exports[`<Accordion /> renders the <Accordion /> with the populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Combien coûte Netflix ?
+        Combien coûte xilften ?
         <img
           alt="Open"
           src="/images/icons/add.png"
@@ -120,12 +120,12 @@ exports[`<Accordion /> renders the <Accordion /> with the populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Où puis-je regarder Netflix ?
+        Où puis-je regarder xilften ?
         <img
           alt="Open"
           src="/images/icons/add.png"
@@ -133,10 +133,10 @@ exports[`<Accordion /> renders the <Accordion /> with the populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
         Comment puis-je annuler mon forfait ?
         <img
@@ -146,12 +146,12 @@ exports[`<Accordion /> renders the <Accordion /> with the populated data 1`] = `
       </div>
     </div>
     <div
-      class="accordion__Item-l3iym9-2 YPmcP"
+      class="accordion__Item-qskqv3-2 kIaGRB"
     >
       <div
-        class="accordion__Header-l3iym9-3 dEalIB"
+        class="accordion__Header-qskqv3-3 jZvcjb"
       >
-        Que puis-je regarder sur Netflix ?
+        Que puis-je regarder sur xilften ?
         <img
           alt="Open"
           src="/images/icons/add.png"

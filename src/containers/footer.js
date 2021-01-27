@@ -12,7 +12,7 @@ export function FooterContainer() {
           <Footer.Link href="#">Relations Investisseurs</Footer.Link>
           <Footer.Link href="#">Modes de lecture</Footer.Link>
           <Footer.Link href="#">Mentions légales</Footer.Link>
-          <Footer.Link href="#">Programmes originaux Netflix</Footer.Link>
+          <Footer.Link href="#">Programmes originaux xilften</Footer.Link>
         </Footer.Column>
 
         <Footer.Column>
@@ -37,7 +37,7 @@ export function FooterContainer() {
         </Footer.Column>
       </Footer.Row>
       <Footer.Break />
-      <Footer.Text>Netflix France</Footer.Text>
+      <Footer.Text>xilften France</Footer.Text>
     </Footer>
   );
 }

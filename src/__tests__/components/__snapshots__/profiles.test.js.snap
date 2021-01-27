@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Profiles /> renders the <Profiles /> with the populated data 1`] = `
+<div
+  class="profiles__Container-rdzfz4-0 ctjKKt"
+>
+  <h1
+    class="profiles__Title-rdzfz4-1 dYeiMT"
+  >
+    Qui regarde?
+  </h1>
+  <ul
+    class="profiles__List-rdzfz4-2 iweZju"
+  >
+    <li
+      class="profiles__Item-rdzfz4-5 krfgQo"
+    >
+      <img
+        class="profiles__Picture-rdzfz4-4 hyBtrx"
+        data-testid="profile-picture"
+        src="/images/users//images/plv.png.png"
+      />
+      <p
+        class="profiles__Name-rdzfz4-3 bqOkZC"
+      >
+        Pierre-Laurent Vincent
+      </p>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Profiles /> renders the <Profiles /> with the populated data 2`] = `
+<div
+  class="profiles__Container-rdzfz4-0 ctjKKt"
+>
+  <h1
+    class="profiles__Title-rdzfz4-1 dYeiMT"
+  >
+    Qui regarde?
+  </h1>
+  <ul
+    class="profiles__List-rdzfz4-2 iweZju"
+  >
+    <li
+      class="profiles__Item-rdzfz4-5 krfgQo"
+    >
+      <img
+        class="profiles__Picture-rdzfz4-4 hyBtrx"
+        data-testid="profile-picture-misc"
+        src="/images/users//images/plv.png.png"
+      />
+      <p
+        class="profiles__Name-rdzfz4-3 bqOkZC"
+      >
+        Pierre-Laurent Vincent
+      </p>
+    </li>
+  </ul>
+</div>
+`;

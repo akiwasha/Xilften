@@ -69,7 +69,7 @@ export default function Signup() {
               Continuer
             </Form.Submit>
             <Form.Text>
-              Déjà utilisateur de Netflix?
+              Déjà utilisateur de xilften?
               <Form.Link to="/signin">S'identifier</Form.Link>
             </Form.Text>
             <Form.TextSmall>

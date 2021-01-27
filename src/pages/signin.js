@@ -55,7 +55,7 @@ export default function Signin() {
             </Form.Submit>
           </Form.Base>
           <Form.Text>
-            Première visite sur Netflix?{' '}
+            Première visite sur xilften?{' '}
             <Form.Link to="signup">Inscrivez-vous.</Form.Link>
           </Form.Text>
           <Form.TextSmall>

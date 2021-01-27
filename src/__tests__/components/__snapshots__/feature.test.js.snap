@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Feature /> renders the <Feature /> with a subtitle 1`] = `
+<div
+  class="feature__Container-sc-1u94x48-0 enxrVh"
+>
+  <h2
+    class="feature__SubTitle-sc-1u94x48-2 ckNrBq"
+  >
+    Où que vous soyez. Annulez à tout moment.
+  </h2>
+</div>
+`;
+
+exports[`<Feature /> renders the <Feature /> with a title 1`] = `
+<div
+  class="feature__Container-sc-1u94x48-0 enxrVh"
+>
+  <h1
+    class="feature__Title-sc-1u94x48-1 gnETZS"
+  >
+    Films, séries TV et bien plus en illimité.
+  </h1>
+</div>
+`;
+
+exports[`<Feature /> renders the <Feature /> with populated data 1`] = `
+<div
+  class="feature__Container-sc-1u94x48-0 enxrVh"
+>
+  <h1
+    class="feature__Title-sc-1u94x48-1 gnETZS"
+  >
+    Films, séries TV et bien plus en illimité.
+  </h1>
+  <h2
+    class="feature__SubTitle-sc-1u94x48-2 ckNrBq"
+  >
+    Où que vous soyez. Annulez à tout moment.
+  </h2>
+</div>
+`;

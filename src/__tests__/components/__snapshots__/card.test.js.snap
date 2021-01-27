@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders the <Card /> and toggles the card feature 1`] = `
+<div
+  class="card__Group-bu7s43-2 kghlzN"
+>
+  <div
+    class="card__Container-bu7s43-1 gXEVLR"
+  >
+    <p
+      class="card__Title-bu7s43-0 fywJMy"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-bu7s43-12 gERdjH"
+    >
+      <div
+        class="card__Item-bu7s43-13 gIHEnO"
+        data-testid="amanda-knox-item-feature"
+      >
+        <img
+          class="card__Image-bu7s43-14 kDZXcP"
+          src="/images/series/documentaries/amanda-knox/small.jpg"
+        />
+        <div
+          class="card__Meta-bu7s43-11 fwQvzH"
+        >
+          <p
+            class="card__SubTitle-bu7s43-3 hNVrNW"
+          >
+            Amanda Knox
+          </p>
+          <p
+            class="card__Text-bu7s43-4 gRjIdT"
+          >
+            Amanda Marie Knox is an American woman who spent almost four years in an Italian prison.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> renders the <Card /> component with the populated data 1`] = `
+<div
+  class="card__Group-bu7s43-2 kghlzN"
+>
+  <div
+    class="card__Container-bu7s43-1 gXEVLR"
+  >
+    <p
+      class="card__Title-bu7s43-0 fywJMy"
+    >
+      Documentaries
+    </p>
+    <div
+      class="card__Entities-bu7s43-12 gERdjH"
+    >
+      <div
+        class="card__Item-bu7s43-13 gIHEnO"
+      >
+        <img
+          class="card__Image-bu7s43-14 kDZXcP"
+          src="/images/series/documentaries/amanda-knox/small.jpg"
+        />
+        <div
+          class="card__Meta-bu7s43-11 fwQvzH"
+        >
+          <p
+            class="card__SubTitle-bu7s43-3 hNVrNW"
+          >
+            Amanda Knox
+          </p>
+          <p
+            class="card__Text-bu7s43-4 gRjIdT"
+          >
+            Amanda Marie Knox is an American woman who spent almost four years in an Italian prison.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

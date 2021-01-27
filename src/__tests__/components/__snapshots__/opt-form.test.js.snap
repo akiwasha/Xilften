@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OptForm /> renders the <OptForm /> with populated data 1`] = `
+<div
+  class="opt-form__Container-sc-115zda8-0 jaBHSU"
+>
+  <input
+    class="opt-form__Input-sc-115zda8-1 jpOxXZ"
+    placeholder="Adresse e-mail"
+  />
+  <button
+    class="opt-form__Button-sc-115zda8-2 igoxUK"
+  >
+    COMMENCER
+     
+    <img
+      alt="Try Now"
+      src="/images/icons/chevron-right.png"
+    />
+  </button>
+  <div
+    class="opt-form__Break-sc-115zda8-4 dUbazi"
+  />
+  <p
+    class="opt-form__Text-sc-115zda8-3 gLFXgy"
+  >
+    Prêt à regarder xilften ? Saisissez votre adresse e-mail pour vous abonner ou réactiver votre abonnement.
+  </p>
+</div>
+`;

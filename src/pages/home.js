@@ -21,7 +21,7 @@ export default function Home() {
             <OptForm.Button>COMMENCER</OptForm.Button>
             <OptForm.Break />
             <OptForm.Text>
-              Prêt à regarder Netflix ? Saisissez votre adresse e-mail pour vous
+              Prêt à regarder xilften ? Saisissez votre adresse e-mail pour vous
               abonner ou réactiver votre abonnement.
             </OptForm.Text>
           </OptForm>

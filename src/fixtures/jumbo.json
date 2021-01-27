@@ -1,10 +1,10 @@
   [
     {
       "id": 1,
-      "title": "Regardez Netflix sur votre TV.",
-      "subTitle": "Regardez Netflix sur votre Smart TV, PlayStation, Xbox, Chromecast, Apple TV, lecteurs Blu-ray et bien plus.",
+      "title": "Regardez xilften sur votre TV.",
+      "subTitle": "Regardez xilften sur votre Smart TV, PlayStation, Xbox, Chromecast, Apple TV, lecteurs Blu-ray et bien plus.",
       "image": "/images/misc/home-tv.jpg",
-      "alt": "Tiger King est sur Netflix",
+      "alt": "Tiger King est sur xilften",
       "direction": "row"
     },
     {
@@ -20,7 +20,7 @@
       "title": "Où que vous soyez.",
       "subTitle": "Regardez des films et séries TV en accès illimité sur votre TV, smartphone, tablette et ordinateur, tout compris.",
       "image": "/images/misc/home-imac.jpg",
-      "alt": "Stranger Things est sur Netflix",
+      "alt": "Stranger Things est sur xilften",
       "direction": "row"
     }
   ]

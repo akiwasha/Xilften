@@ -47,7 +47,7 @@ export function BrowseContainer({ slides }) {
       <Header src="joker1" dontShowOnSmallViewPort>
         <Header.Frame>
           <Header.Group>
-            <Header.Logo to={ROUTES.HOME} src={logo} alt="Netflix" />
+            <Header.Logo to={ROUTES.HOME} src={logo} alt="xilften" />
             <Header.TextLink
               active={category === 'series' ? 'true' : 'false'}
               onClick={() => setCategory('series')}

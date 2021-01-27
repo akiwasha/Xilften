@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> renders the <Form /> with an error 1`] = `
+<div
+  class="form__Container-sc-17alsyo-0 fOtLPC"
+>
+  <div
+    class="form__Error-sc-17alsyo-1 uYcEp"
+  >
+    Votre adresse email est déjà utilisée
+  </div>
+  <button
+    class="form__Submit-sc-17alsyo-8 ddPkDN"
+    type="submit"
+  >
+    S'identifier
+  </button>
+</div>
+`;
+
+exports[`<Form /> renders the <Form /> with the populated data 1`] = `
+<div
+  class="form__Container-sc-17alsyo-0 fOtLPC"
+>
+  <h1
+    class="form__Title-sc-17alsyo-3 inyZHw"
+  >
+    S'identifier
+  </h1>
+  <form
+    class="form__Base-sc-17alsyo-2 iKGYYP"
+  >
+    <input
+      class="form__Input-sc-17alsyo-7 fuggHQ"
+      placeholder="Adresse email"
+    />
+    <input
+      class="form__Input-sc-17alsyo-7 fuggHQ"
+      placeholder="Mot de passe"
+      type="password"
+    />
+    <button
+      class="form__Submit-sc-17alsyo-8 ddPkDN"
+      disabled=""
+      type="submit"
+    >
+      S'identifier maintenant
+    </button>
+  </form>
+  <p
+    class="form__Text-sc-17alsyo-4 jbCNfx"
+  >
+    Première visite sur xilften?
+     
+  </p>
+  <p
+    class="form__TextSmall-sc-17alsyo-5 vHjKB"
+  >
+    Cette page est protégée par Google reCAPTCHA pour nous assurer que vous n'êtes pas un robot.
+  </p>
+</div>
+`;

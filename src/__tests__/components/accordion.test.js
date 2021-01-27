@@ -18,11 +18,11 @@ describe('<Accordion />', () => {
     );
 
     expect(getByText('Foire aux questions')).toBeTruthy();
-    expect(getByText("Netflix, qu'est-ce que c'est ?")).toBeTruthy();
-    expect(getByText('Combien coûte Netflix ?')).toBeTruthy();
-    expect(getByText('Où puis-je regarder Netflix ?')).toBeTruthy();
+    expect(getByText("xilften, qu'est-ce que c'est ?")).toBeTruthy();
+    expect(getByText('Combien coûte xilften ?')).toBeTruthy();
+    expect(getByText('Où puis-je regarder xilften ?')).toBeTruthy();
     expect(getByText('Comment puis-je annuler mon forfait ?')).toBeTruthy();
-    expect(getByText('Que puis-je regarder sur Netflix ?')).toBeTruthy();
+    expect(getByText('Que puis-je regarder sur xilften ?')).toBeTruthy();
     expect(container.firstChild).toMatchSnapshot();
   });
 
@@ -39,15 +39,15 @@ describe('<Accordion />', () => {
       </Accordion>
     );
 
-    const whatIsNetflixBodyText =
-      "Netflix est un service de streaming qui propose une vaste sélection de séries TV, films, animes, documentaires et autres programmes primés sur des milliers d'appareils connectés à Internet. Regardez tout ce que vous voulez, quand vous voulez, sans publicité et à un tarif mensuel très attractif. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !";
+    const whatIsxilftenBodyText =
+      "xilften est un service de streaming qui propose une vaste sélection de séries TV, films, animes, documentaires et autres programmes primés sur des milliers d'appareils connectés à Internet. Regardez tout ce que vous voulez, quand vous voulez, sans publicité et à un tarif mensuel très attractif. Découvrez de nouveaux films et séries TV chaque semaine, il y en a pour tous les goûts !";
 
-    expect(queryByText(whatIsNetflixBodyText)).toBeFalsy();
-    fireEvent.click(queryByText("Netflix, qu'est-ce que c'est ?"));
-    expect(queryByText(whatIsNetflixBodyText)).toBeTruthy();
+    expect(queryByText(whatIsxilftenBodyText)).toBeFalsy();
+    fireEvent.click(queryByText("xilften, qu'est-ce que c'est ?"));
+    expect(queryByText(whatIsxilftenBodyText)).toBeTruthy();
 
-    fireEvent.click(queryByText("Netflix, qu'est-ce que c'est ?"));
-    expect(queryByText(whatIsNetflixBodyText)).toBeFalsy();
+    fireEvent.click(queryByText("xilften, qu'est-ce que c'est ?"));
+    expect(queryByText(whatIsxilftenBodyText)).toBeFalsy();
     expect(container.firstChild).toMatchSnapshot();
   });
 });

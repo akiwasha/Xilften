@@ -2,132 +2,132 @@
 
 exports[`<Footer /> renders the <Footer /> with the populated data 1`] = `
 <div
-  class="footer__Container-qu6i6-0 hygnSq"
+  class="footer__Container-sc-405l3i-0 hdiRxl"
 >
   <p
-    class="footer__Title-qu6i6-4 ietrFk"
+    class="footer__Title-sc-405l3i-4 dVVffD"
   >
     Des questions ? Appelez le 0805-220-512
   </p>
   <p
-    class="footer__Break-qu6i6-6 cnYatT"
+    class="footer__Break-sc-405l3i-6 klbjKE"
   />
   <div
-    class="footer__Row-qu6i6-2 kLvuYU"
+    class="footer__Row-sc-405l3i-2 hkXovD"
   >
     <div
-      class="footer__Column-qu6i6-1 jAYoWp"
+      class="footer__Column-sc-405l3i-1 hTAMMG"
     >
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         FAQ
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Relations Investisseurs
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Modes de lecture
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Mentions légales
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
-        Programmes originaux Netflix
+        Programmes originaux xilften
       </a>
     </div>
     <div
-      class="footer__Column-qu6i6-1 jAYoWp"
+      class="footer__Column-sc-405l3i-1 hTAMMG"
     >
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Centre d'aide
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Recrutement
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Conditions d'utilisation
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Nous contacter
       </a>
     </div>
     <div
-      class="footer__Column-qu6i6-1 jAYoWp"
+      class="footer__Column-sc-405l3i-1 hTAMMG"
     >
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Compte
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Utiliser des cartes cadeaux
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Confidentialité
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Test de vitesse
       </a>
     </div>
     <div
-      class="footer__Column-qu6i6-1 jAYoWp"
+      class="footer__Column-sc-405l3i-1 hTAMMG"
     >
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Presse
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Acheter des cartes cadeaux
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Préférences de cookies
       </a>
       <a
-        class="footer__Link-qu6i6-3 iRyBkK"
+        class="footer__Link-sc-405l3i-3 inKVaB"
         href="#"
       >
         Informations légales
@@ -135,12 +135,12 @@ exports[`<Footer /> renders the <Footer /> with the populated data 1`] = `
     </div>
   </div>
   <p
-    class="footer__Break-qu6i6-6 cnYatT"
+    class="footer__Break-sc-405l3i-6 klbjKE"
   />
   <p
-    class="footer__Text-qu6i6-5 bAqYDB"
+    class="footer__Text-sc-405l3i-5 eSkEve"
   >
-    Netflix France
+    xilften France
   </p>
 </div>
 `;
