@@ -28,5 +28,10 @@ describe('<Jumbotron />', () => {
     expect(getByText('Regardez xilften sur votre TV.')).toBeTruthy();
     expect(getByAltText('Tiger King est sur xilften')).toBeTruthy();
     expect(getByTestId('1-jumbo-image')).toBeTruthy();
+    expect(
+      getByText(
+        'Regardez xilften sur votre Smart TV, PlayStation, Xbox, Chromecast, Apple TV, lecteurs Blu-ray et bien plus.'
+      )
+    ).toBeTruthy();
   });
 });

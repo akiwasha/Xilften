@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders the basic <Header /> with a background 1`] = `
+<div
+  class="header__Background-sc-17v3bsa-0 hkhSlY"
+  data-testid="header-bg"
+>
+  <div
+    class="header__Container-sc-17v3bsa-2 hVMkFs"
+  >
+    <p
+      class="header__Link-sc-17v3bsa-4 bvVujV"
+    >
+      Je suis un lien!
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<Header /> renders the basic <Header /> without a background 1`] = `
+<div
+  class="header__Container-sc-17v3bsa-2 hVMkFs"
+>
+  <p
+    class="header__Link-sc-17v3bsa-4 CZkiN"
+  >
+    Je suis un lien!
+  </p>
+</div>
+`;
+
+exports[`<Header /> renders the full <Header /> with a background 1`] = `
+<div
+  class="header__Background-sc-17v3bsa-0 keUSbR"
+  data-testid="header-bg"
+  src="joker1"
+>
+  <div
+    class="header__Container-sc-17v3bsa-2 hVMkFs"
+  >
+    <div
+      class="header__Group-sc-17v3bsa-1 hJSwMe"
+    >
+      <p
+        class="header__Link-sc-17v3bsa-4 CZkiN"
+      >
+        Series
+      </p>
+      <p
+        class="header__Link-sc-17v3bsa-4 CZkiN"
+      >
+        Films
+      </p>
+    </div>
+    <div
+      class="header__Group-sc-17v3bsa-1 hJSwMe"
+    >
+      <div
+        class="header__Search-sc-17v3bsa-6 jKbBQv"
+      >
+        <button
+          class="header__SearchIcon-sc-17v3bsa-7 fWTVno"
+          data-testid="search-click"
+        >
+          <img
+            alt="Search"
+            src="/images/icons/search.png"
+          />
+        </button>
+        <input
+          class="header__SearchInput-sc-17v3bsa-9 cjBSUz"
+          data-testid="search-input"
+          placeholder="Rechercher des films et séries"
+          value="Joker"
+        />
+      </div>
+      <div
+        class="header__Profile-sc-17v3bsa-10 bsgmJh"
+      >
+        <button
+          class="header__Picture-sc-17v3bsa-3 gYBhWW"
+          src="images/users//images/plv.png.png"
+        />
+        <div
+          class="header__Dropdown-sc-17v3bsa-5 dkQdX"
+        >
+          <div
+            class="header__Group-sc-17v3bsa-1 hJSwMe"
+          >
+            <button
+              class="header__Picture-sc-17v3bsa-3 gYBhWW"
+              src="images/users//images/plv.png.png"
+            />
+            <p
+              class="header__Link-sc-17v3bsa-4 CZkiN"
+            >
+              Pierre-Laurent Vincent
+            </p>
+          </div>
+          <div
+            class="header__Group-sc-17v3bsa-1 hJSwMe"
+          >
+            <p
+              class="header__Link-sc-17v3bsa-4 CZkiN"
+            >
+              Déconnection
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="header__Container-sc-17v3bsa-2 header__Feature-sc-17v3bsa-13 hVMkFs ipELMP"
+  >
+    <h2
+      class="header__FeatureCallOut-sc-17v3bsa-15 fvkZyb"
+    >
+      Regardez Joker maintenant
+    </h2>
+    <p
+      class="header__Text-sc-17v3bsa-14 kTeSZH"
+    >
+      Dans les années 1980, à Gotham City, Arthur Fleck...
+    </p>
+    <button
+      class="header__PlayButton-sc-17v3bsa-8 fHGPQZ"
+    >
+      Lecture
+    </button>
+  </div>
+</div>
+`;
