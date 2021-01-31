@@ -17,6 +17,6 @@ describe('renders the homepage', () => {
       getAllByText(
         'Prêt à regarder xilften ? Saisissez votre adresse e-mail pour vous abonner ou réactiver votre abonnement.'
       )
-    );
+    ).toBeTruthy();
   });
 });
